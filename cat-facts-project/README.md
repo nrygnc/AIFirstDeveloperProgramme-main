@@ -64,7 +64,10 @@ This is a basic example showcasing data fetching, database interaction, and a us
 
 :camera_flash:
 
-[Ekran Resmi 2024-07-28 18.13.36.png](..%2F..%2FEkran%20Resmi%202024-07-28%2018.13.36.png)
+
+**Application Output **
+
+![Cat fact](.idea/Ekran Resmi 2021-09-29 14.52.52.png)
 
 :point_right: [View the application](https://share.streamlit.io/your-username/cat-facts-project/main/cat_facts_app.py)
 
