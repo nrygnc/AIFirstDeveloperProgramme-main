@@ -1,4 +1,4 @@
-**Cat Facts Application**
+😻 **Cat Facts Application** 😻
 
 This Streamlit application fetches cat facts from an API, stores them in a SQLite database, and allows users to view the saved facts.
 
@@ -42,6 +42,8 @@ The application has two buttons:
 * Requests: A library for making HTTP requests.
 * SQLAlchemy: A library for interacting with relational databases.
 
+  🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖
+
 
 **Database**
 
@@ -53,6 +55,8 @@ The application uses a SQLite database named `cat_facts.db` to store the retriev
 Delete specific cat facts.
 Search for cat facts based on keywords.
 * Add visual enhancements to the application.
+
+  👾👾👾👾👾👾👾👾👾👾👾
 
 **Note:**
 :astonished:
@@ -67,10 +71,10 @@ This is a basic example showcasing data fetching, database interaction, and a us
 
 **Application Output **
 
-![Cat fact](Ekran Resmi 2021-09-29 14.52.52.png)
-
+👀
 <img width="1132" alt="Ekran Resmi 2024-07-28 18 13 36" src="https://github.com/user-attachments/assets/5614405e-acb4-4f18-8997-4b957a2c7541">
 
+🫲🏻👨🏼🫱🏻
 
 :point_right: [View the application](http://localhost:8501/)
 
@@ -80,7 +84,6 @@ This is a basic example showcasing data fetching, database interaction, and a us
 # Create the README.md file
 with open('README.md', 'w') as file:
     file.write(readme_content)
-```
 
 Finally, we can create a new repository on GitHub and push the code to it.
 
