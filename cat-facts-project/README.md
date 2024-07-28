@@ -69,6 +69,9 @@ This is a basic example showcasing data fetching, database interaction, and a us
 
 ![Cat fact](Ekran Resmi 2021-09-29 14.52.52.png)
 
+<img width="1132" alt="Ekran Resmi 2024-07-28 18 13 36" src="https://github.com/user-attachments/assets/5614405e-acb4-4f18-8997-4b957a2c7541">
+
+
 :point_right: [View the application](http://localhost:8501/)
 
 ****
