@@ -59,3 +59,9 @@ Search for cat facts based on keywords.
 This is a basic example showcasing data fetching, database interaction, and a user interface using Streamlit. You can customize and extend it further based on your requirements.
 
 :+1::+1::+1:
+
+**Screenshots**
+
+:camera_flash:
+
+![Ekran Resmi 2024-07-28 18.13.36.png](..%2F..%2FEkran%20Resmi%202024-07-28%2018.13.36.png)
