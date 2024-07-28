@@ -64,4 +64,23 @@ This is a basic example showcasing data fetching, database interaction, and a us
 
 :camera_flash:
 
-![Ekran Resmi 2024-07-28 18.13.36.png](..%2F..%2FEkran%20Resmi%202024-07-28%2018.13.36.png)
+[Ekran Resmi 2024-07-28 18.13.36.png](..%2F..%2FEkran%20Resmi%202024-07-28%2018.13.36.png)
+
+:point_right: [View the application](https://share.streamlit.io/your-username/cat-facts-project/main/cat_facts_app.py)
+
+****
+```
+
+# Create the README.md file
+with open('README.md', 'w') as file:
+    file.write(readme_content)
+```
+
+Finally, we can create a new repository on GitHub and push the code to it.
+
+# Push the code to GitHub
+!git init
+!git add .
+!git commit -m "Initial commit"
+!git branch -M main
+!git remote add origin
