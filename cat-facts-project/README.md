@@ -67,9 +67,9 @@ This is a basic example showcasing data fetching, database interaction, and a us
 
 **Application Output **
 
-![Cat fact](.idea/Ekran Resmi 2021-09-29 14.52.52.png)
+![Cat fact](Ekran Resmi 2021-09-29 14.52.52.png)
 
-:point_right: [View the application](https://share.streamlit.io/your-username/cat-facts-project/main/cat_facts_app.py)
+:point_right: [View the application](http://localhost:8501/)
 
 ****
 ```
