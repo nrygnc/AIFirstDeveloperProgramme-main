@@ -72,7 +72,8 @@ This is a basic example showcasing data fetching, database interaction, and a us
 **Application Output **
 
 👀
-<img width="1132" alt="Ekran Resmi 2024-07-29 11.50.23" src="https://github.com/user-attachments/assets/5614405e-acb4-4f18-8997-4b957a2c7541">
+
+<img width="1278" alt="Ekran Resmi 2024-07-29 11 50 23" src="https://github.com/user-attachments/assets/0a3cf18c-61fb-43d6-9a28-817a905df014">
 
 🫲🏻👨🏼🫱🏻
 
