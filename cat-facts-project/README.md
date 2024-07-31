@@ -4,11 +4,13 @@ This Streamlit application fetches cat facts from an API, stores them in a SQLit
 
 **Features:**
 :arrow_down_small:
+
 1. Fetches cat facts from a public API.
 2. Saves retrieved facts to a SQLite database.
 3. Displays all stored cat facts.
 
 ****Getting Started****
+
 :arrow_down_small:
 1. **Install dependencies:**
 
@@ -59,6 +61,7 @@ Search for cat facts based on keywords.
   👾👾👾👾👾👾👾👾👾👾👾
 
 **Note:**
+
 :astonished:
 This is a basic example showcasing data fetching, database interaction, and a user interface using Streamlit. You can customize and extend it further based on your requirements.
 
