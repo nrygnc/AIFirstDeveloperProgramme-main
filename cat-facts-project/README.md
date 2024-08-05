@@ -76,11 +76,13 @@ This is a basic example showcasing data fetching, database interaction, and a us
 
 👀
 
+
 <img width="1278" alt="Ekran Resmi 2024-07-29 11 50 23" src="https://github.com/user-attachments/assets/0a3cf18c-61fb-43d6-9a28-817a905df014">
 
 🫲🏻👨🏼🫱🏻
 
 :point_right: [View the application](http://localhost:8501/)
+
 
 ****
 ```
